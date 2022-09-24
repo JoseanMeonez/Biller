@@ -1,6 +1,6 @@
 
 # Bytes Biller/Certify
-## Created By Andres Meoñez
+## Created By Andrés Meoñez
 
 This first structure from this web app wants <br>
 to make more easier get an accounting from <br>
@@ -15,9 +15,9 @@ the project you can add soo many more functions <br>
 if you want. <br>
 
 ### Cliente, Usuario: <br>
-This its the model that will execute the queries
-in the serverside, soon i'll update it to PDO this
-to make more secure the site.
+This its the model that will execute the queries <br>
+in the serverside, soon i'll update it to PDO this <br>
+to make more secure the site. <br>
 
 ### ErrorController: <br>
 This class help me to show error layouts when i <br>
